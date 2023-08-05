@@ -1,0 +1,3 @@
+2023-06-08 19:17:43.849539|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2023-06-08 20:14:42.905905|INFO    |PktHandler    |1  |Dropping client 3 because of ping timeout 19 0 0
+2023-06-08 20:28:29.797686|INFO    |VirtualServerBase|1  |stopped

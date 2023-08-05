@@ -1,0 +1,5 @@
+2023-06-10 08:30:34.737722|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2023-06-10 08:31:49.818507|INFO    |VirtualServer |1  |client 'Matrix_79'(id:4) was added to servergroup 'Sr. Admin'(id:10) by client 'Yeeeeee09'(id:3)
+2023-06-10 08:31:54.582221|INFO    |VirtualServer |1  |client 'Matrix_79'(id:4) was removed from servergroup 'Builder'(id:11) by client 'Yeeeeee09'(id:3)
+2023-06-10 08:33:37.070689|INFO    |VirtualServer |1  |client 'Matrix_79'(id:4) was added to servergroup 'Builder'(id:11) by client 'Matrix_79'(id:4)
+2023-06-10 09:15:09.565616|INFO    |VirtualServerBase|1  |stopped

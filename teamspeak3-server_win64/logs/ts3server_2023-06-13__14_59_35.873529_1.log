@@ -1,0 +1,2 @@
+2023-06-13 14:59:37.352314|ERROR   |VirtualServerBase|1  |bind failed on 0.0.0.0:9987, :::9987
+2023-06-13 14:59:37.353337|INFO    |VirtualServerBase|1  |stopped

@@ -1,0 +1,3 @@
+2023-06-20 09:40:30.162083|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2023-06-20 09:41:11.835719|INFO    |VirtualServer |1  |client 'ytGameTime84'(id:6) was added to servergroup 'Sr. Admin'(id:10) by client 'Yeeeeee09'(id:3)
+2023-06-20 09:41:17.830493|INFO    |VirtualServer |1  |client 'ytGameTime84'(id:6) was removed from servergroup 'Mod'(id:12) by client 'Yeeeeee09'(id:3)

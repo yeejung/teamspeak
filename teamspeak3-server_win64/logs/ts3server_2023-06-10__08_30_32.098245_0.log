@@ -1,0 +1,26 @@
+2023-06-10 08:30:32.098245|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.7 (2022-06-20 12:21:53)
+2023-06-10 08:30:32.099246|INFO    |ServerLibPriv |   |SystemInformation: Windows 10 (22621) x64 (AMD or Intel) Binary: 64bit
+2023-06-10 08:30:32.100245|INFO    |ServerLibPriv |   |Using hardware aes
+2023-06-10 08:30:32.102247|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2023-06-10 08:30:32.102247|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2023-06-10 08:30:32.102757|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2023-06-10 08:30:32.169788|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2023-06-10 08:30:32.174316|INFO    |Accounting    |   |Licensing Information
+2023-06-10 08:30:32.174316|INFO    |Accounting    |   |licensed to       : Anonymous
+2023-06-10 08:30:32.174316|INFO    |Accounting    |   |type              : No License
+2023-06-10 08:30:32.174316|INFO    |Accounting    |   |starting date     : Tue Feb  1 00:00:00 2022
+2023-06-10 08:30:32.174316|INFO    |Accounting    |   |ending date       : Thu Jul  1 00:00:00 2027
+2023-06-10 08:30:32.174316|INFO    |Accounting    |   |max virtualservers: 1
+2023-06-10 08:30:32.174316|INFO    |Accounting    |   |max slots         : 32
+2023-06-10 08:30:33.500797|INFO    |              |   |Puzzle precompute time: 1299
+2023-06-10 08:30:33.503313|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2023-06-10 08:30:34.628387|INFO    |Query         |   |Using a query thread pool size of 2
+2023-06-10 08:30:34.739722|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2023-06-10 08:30:34.741723|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2023-06-10 08:30:34.742230|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2023-06-10 08:30:34.743239|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2023-06-10 08:30:36.253315|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2023-06-10 09:05:35.033081|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2023-06-10 09:05:35.033081|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2023-06-10 09:05:37.031540|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
+2023-06-10 09:05:37.031540|ERROR   |              |   |TS3ANetwork::Send failed error: 10022
